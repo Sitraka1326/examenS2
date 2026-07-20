@@ -1,0 +1,2 @@
+- Creation de la base de donnes (en cours par ETU004771)
+    - table (membre,categorie,produit,produit_membre,vente)
